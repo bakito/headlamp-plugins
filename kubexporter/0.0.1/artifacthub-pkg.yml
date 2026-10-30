@@ -1,8 +1,8 @@
 # For the specification, see https://artifacthub.io/docs/topics/annotations/headlamp/.
 displayName: KubExporter Headlamp Plugin
 version: 0.0.1
-createdAt: 2026-10-26T00:00:00.000Z
-name: kubexporter-headlamp-plugin
+createdAt: 2026-10-30T00:00:00.000Z
+name: kubexporter
 description: Headlamp plugin for visualizing KubExporter OpenReports export statistics
 license: Apache-2.0
 homeURL: https://github.com/bakito/kubexporter
